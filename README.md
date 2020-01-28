@@ -1,2 +1,2 @@
 # first-repo
-MY HOMEWORk (Session 2)
+MY HOMEWORK (Session 2)
